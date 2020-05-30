@@ -14,7 +14,7 @@ function Porfolio() {
                         I built a movie database interacting with external OMDb
                         API using Django REST framework. See site
                         <a
-                            href="https://warm-journey-10447.herokuapp.com/"
+                            href="https://warm-journey-10447.herokuapp.com/api/v1/movies/"
                             rel="noopener noreferrer"
                             target="_blank"
                         >
@@ -36,8 +36,8 @@ function Porfolio() {
                     <img src="/tourism.png" alt="Django"></img>
                     <h1>Tour website</h1>
                     <p>
-                        This a responsive tour company website. It was built
-                        using HTML, CSS Flexbox and JS. See site
+                        This is a demo responsive tour company website. It was
+                        built using HTM5L, CSS Flexbox and JS. See site
                         <a
                             href="https://bocas-backroad-tours.netlify.app/"
                             rel="noopener noreferrer"
@@ -61,8 +61,8 @@ function Porfolio() {
                     <img src="/software-development.png" alt="Django"></img>
                     <h1>web agency website</h1>
                     <p>
-                        A demo web agency built with HTML5 and CSS Flexbox. See
-                        site
+                        A demo responsive web agency built with HTML5 and CSS
+                        Flexbox. See site
                         <a
                             href="https://bocas-web-agency.netlify.app/"
                             rel="noopener noreferrer"

@@ -267,7 +267,7 @@ p {
 .contact-detail {
     color: white;
     font-size: 1.2rem;
-    padding: 1rem;
+    padding-bottom: 0.5rem;
     -webkit-transition: all 1s linear;
     transition: all 1s linear;
 }

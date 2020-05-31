@@ -251,7 +251,7 @@ p {
   color: var(--paradise-pink-color);
 }
 
-@media screen and (min-width: 576px) {
+@media screen and (min-width: 765px) {
   .education-center {
     margin-top: 1rem;
     display: -webkit-box;
@@ -283,7 +283,7 @@ p {
   }
 }
 
-@media screen and (min-width: 765px) {
+@media screen and (min-width: 992px) {
   .education {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 calc(33.333% - 2rem);

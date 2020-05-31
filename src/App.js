@@ -12,15 +12,15 @@ import Portfolio from "./components/Portfolio";
 library.add(fab);
 
 function App() {
-    return (
-        <div className="App">
-            <NavBar></NavBar>
-            <Profile></Profile>
-            <Education></Education>
-            <Portfolio></Portfolio>
-            <Contact></Contact>
-        </div>
-    );
+  return (
+    <div className="App">
+      <NavBar></NavBar>
+      <Profile></Profile>
+      <Education></Education>
+      <Portfolio></Portfolio>
+      <Contact></Contact>
+    </div>
+  );
 }
 
 export default App;

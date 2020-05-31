@@ -1,3 +1,3 @@
 # ebonom
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my portfolio and I created it using **React**. Link to my portfolio is repo on description.

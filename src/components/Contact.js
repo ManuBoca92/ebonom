@@ -6,16 +6,18 @@ class Contact extends Component {
   render() {
     return (
       <div className="contact">
-        <h1 className="title">contact me</h1>
-        <div className="contact-detail">
-          <p>
-            <FontAwesomeIcon icon={faEnvelope} className="contact-icon" />
-            <span>ebonom.n.mfam@gmail.com</span>
-          </p>
-          <p>
-            <FontAwesomeIcon icon={faPhone} className="contact-icon" />
-            <span>+48732187071</span>
-          </p>
+        <div className="contact-center">
+          <h1 className="title">contact me</h1>
+          <div className="contact-detail">
+            <p>
+              <FontAwesomeIcon icon={faEnvelope} className="contact-icon" />
+              <span>ebonom.n.mfam@gmail.com</span>
+            </p>
+            <p>
+              <FontAwesomeIcon icon={faPhone} className="contact-icon" />
+              <span>+48732187071</span>
+            </p>
+          </div>
         </div>
       </div>
     );

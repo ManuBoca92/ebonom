@@ -113,8 +113,9 @@ code {
 
 .profile-img {
   display: block;
-  width: 20rem;
-  height: 20rem;
+  margin: 0 auto;
+  width: 15rem;
+  height: 15rem;
   -o-object-fit: cover;
   object-fit: cover;
   -webkit-clip-path: circle(50% at 50% 50%);
@@ -168,21 +169,28 @@ p {
 }
 
 @media screen and (min-width: 672px) {
-  .bars {
-    display: none;
+  .profile-img {
+    width: 20rem;
+    height: 20rem;
   }
 }
 
-.profile-center {
-  max-width: 900px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
-  grid-gap: 1em;
-  justify-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+@media screen and (min-width: 672px) {
+  .profile-center {
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
+    grid-gap: 1em;
+    justify-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .bars {
+    display: none;
+  }
 }
 
 /* ## Education ## */

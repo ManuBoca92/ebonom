@@ -24,7 +24,7 @@ class Education extends Component {
                     {/* single education */}
                     <article className="education">
                         <img src="/Paris-Saclay.png" alt="PUT"></img>
-                        <h1>MSc in Smart Aerospace & Autonomous Systems</h1>
+                        <h1>MSc Smart Aerospace & Autonomous Systems</h1>
                         <div className="date">
                             <FontAwesomeIcon
                                 icon={faCalendarAlt}

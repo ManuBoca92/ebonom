@@ -12,7 +12,7 @@ class Profile extends Component {
           <div className="profile-detail">
             <h1>ebonom n. mfam </h1>
             <h4>web developer</h4>
-            <p>Web development enthusiast and football lover</p>
+            <p>Web development enthusiast and an avid football lover</p>
             <a
               href="https://www.linkedin.com/in/ebonom-n-mfam-870136101/"
               className="social-icons"

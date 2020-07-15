@@ -58,7 +58,7 @@ function Porfolio() {
         {/* end of single article */}
         {/* single article */}
         <article className="portfolio">
-          <img src="/software-development.png" alt="Django"></img>
+          <img src="/laptop.png" alt="Django"></img>
           <h1>web agency website</h1>
           <p>
             A demo responsive web agency built with HTML5 and CSS Flexbox. See

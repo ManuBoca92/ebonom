@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function Porfolio() {
   return (
-    <div className="portfolios">
+    <div className="portfolios" id="portfolio">
       <h1 className="title">Porfolio</h1>
       <section className="portfolio-center">
         {/* single article */}

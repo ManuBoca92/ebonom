@@ -5,7 +5,7 @@ import { faPhone, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 class Contact extends Component {
   render() {
     return (
-      <div className="contact">
+      <div className="contact" id="contact">
         <div className="contact-center">
           <h1 className="title">contact me</h1>
           <div className="contact-detail">

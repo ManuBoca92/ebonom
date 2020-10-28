@@ -5,7 +5,7 @@ import { faCalendarAlt } from "@fortawesome/free-solid-svg-icons";
 class Education extends Component {
     render() {
         return (
-            <div>
+            <div id="education">
                 <h1 className="title">Education</h1>
                 <section className="education-center">
                     {/* single education */}

@@ -6,9 +6,9 @@ class Menu extends Component {
       <div>
         <ul>
           <li className="nav">
-            <a href="#education">education</a>
-            <a href="#portfolio">portfolio</a>
-            <a href="#tactcon">contact</a>
+            <a href="/#education">education</a>
+            <a href="/#portfolio">portfolio</a>
+            <a href="/#contact">contact</a>
           </li>
         </ul>
       </div>

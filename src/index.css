@@ -166,7 +166,7 @@ p {
   margin: 0 0.4rem;
   color: black;
   -webkit-transition: all 2s linear;
-  transition: all 2s linear;
+  transition: all 0.5s linear;
 }
 
 .social-icons:hover {
@@ -208,7 +208,7 @@ p {
 .education {
   border-radius: 3%;
   -webkit-transition: all 1s linear;
-  transition: all 1s linear;
+  transition: all 0.5s linear;
   padding: 1rem;
   margin-bottom: 1rem;
 }
@@ -282,15 +282,16 @@ p {
   }
 
   .date {
+    margin: 0 auto;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: baseline;
-    -ms-flex-align: baseline;
-    align-items: baseline;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 }
 
